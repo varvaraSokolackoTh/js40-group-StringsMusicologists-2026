@@ -1,8 +1,8 @@
 /* Базовые стили — усиль цвета и размеры */
 body {
   font-family: system-ui, sans-serif;
-  background: #eee;
-  color: #333;
+  background: #b31313;
+  color: #470606;
   margin: 0;
   padding: 24px;
 }
@@ -12,17 +12,18 @@ body {
   margin: 0 auto;
   padding: 16px;
   background: #fff;
-  border: 1px solid #ccc;
+  border: 10px solid #3a1212;
+  border-radius: 1%;
 }
 
 h1 {
-  font-size: 1.4rem;
+  font-size: 2rem;
   margin-top: 0;
 }
 
 .meta {
   color: #666;
-  font-size: 0.95rem;
+  font-size: 2.01rem;
 }
 
 button {
